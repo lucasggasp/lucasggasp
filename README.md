@@ -32,6 +32,14 @@ estudos = {
 
 <br>
 
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://github.com/lucasggasp/lucasggasp/blob/output/github-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 📈 Progresso dos Estudos
 
 <div align="left">
@@ -91,13 +99,6 @@ estudos = {
 
 <br>
 
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://github.com/lucasggasp/lucasggasp/blob/output/github-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lucasggasp&color=ff79c6&style=flat-square&label=Profile+Views" />
