@@ -30,13 +30,10 @@ Git & GitHub para versionamento e colaboração
 🚀 Busco constantemente aprender novas tecnologias e aplicar boas práticas para criar soluções escaláveis, seguras e eficientes.
 
 ### 📚 Estudos Atuais
-```python
-estudos = {
-    "Python": "Terminando módulo básico → Indo para intermediário",
-    "SQL": "Aprendendo o básico",
-    "Node.js": "Iniciando com o básico"
-}
-```
+
+  Python: "Terminando módulo básico → Indo para intermediário",
+  SQL: "Aprendendo o básico",
+  Node.js: "Iniciando com o básico"
 
 <div align="left">
   <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
