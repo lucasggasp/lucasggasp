@@ -20,39 +20,11 @@ Atualmente estou estudando e me desenvolvendo em:
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/lucasggasp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=79c0ff"/>
-  </a>
-  <a href="https://github.com/lucasggasp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9"/>
-  </a>
-</div>
-
 ## 🎯 Objetivos 2024
 - [ ] Completar curso de Python (Básico → Intermediário)
 - [ ] Dominar conceitos fundamentais de SQL
 - [ ] Construir meu primeiro projeto com Node.js
 - [ ] Contribuir para projetos open source
-
-## 📈 Progresso dos Estudos
-
-### Python
-```
-████████████████░░░░ 80% (Básico quase completo)
-```
-
-### SQL
-```
-████░░░░░░░░░░░░░░░░ 20% (Iniciante)
-```
-
-### Node.js
-```
-██░░░░░░░░░░░░░░░░░░ 10% (Começando)
-```
 
 ## 🌱 Próximos Passos
 - **Python**: Projetos práticos e bibliotecas avançadas
