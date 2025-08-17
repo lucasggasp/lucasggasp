@@ -40,27 +40,6 @@ estudos = {
 
 ---
 
-## 📈 Progresso dos Estudos
-
-<div align="left">
-  
-**Python**
-```
-████████████████░░░░ 80% (Quase finalizando o básico)
-```
-
-**SQL** 
-```
-████░░░░░░░░░░░░░░░░ 20% (Começando a jornada)
-```
-
-**Node.js**
-```
-██░░░░░░░░░░░░░░░░░░ 10% (Primeiros passos)
-```
-
-</div>
-
 ## 🎯 Objetivos 2025
 - [x] Criar perfil profissional no GitHub
 - [ ] Completar curso de Python (Básico → Intermediário)
