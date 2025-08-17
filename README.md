@@ -94,7 +94,7 @@ estudos = {
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://github.com/lucasggasp/lucasggasp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/lucasggasp/lucasggasp/blob/output/github-snake.svg" alt="Snake animation" />
 </div>
 
 ---
