@@ -12,7 +12,9 @@
 ## 🚀 Sobre mim
 
 🎓 Estudante de Engenharia de Controle e Automação.
+
 💼 Atualmente atuo como estagiário na área de Engenharia de Produtos.
+
 📊 Também possuo experiência com dashboards, automação de fluxos e criação de scripts em Python para otimização de tarefas.
 
 💻 Hoje estou direcionando minha carreira para Back-End Development, com foco em:
