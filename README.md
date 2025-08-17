@@ -11,7 +11,21 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor em formação apaixonado por tecnologia e sempre em busca de novos conhecimentos!
+🎓 Estudante de Engenharia de Controle e Automação.
+💼 Atualmente atuo como estagiário na área de Engenharia de Produtos.
+📊 Também possuo experiência com dashboards, automação de fluxos e criação de scripts em Python para otimização de tarefas.
+
+💻 Hoje estou direcionando minha carreira para Back-End Development, com foco em:
+
+Node.js e Express
+
+Python para automação e APIs
+
+SQL e MongoDB para modelagem e integração de dados
+
+Git & GitHub para versionamento e colaboração
+
+🚀 Busco constantemente aprender novas tecnologias e aplicar boas práticas para criar soluções escaláveis, seguras e eficientes.
 
 ### 📚 Estudos Atuais
 ```python
