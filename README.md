@@ -74,7 +74,7 @@ Learning Path:
   <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasggasp&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasggasp&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasggasp&theme=tokyo-night&hide_border=true&area=true" width="85%"/>
 </div>
 
 ## 🎯 2025 Roadmap
