@@ -1,101 +1,157 @@
-# 🔗 Oi! Eu sou o Lucas Gomes 👋
+# 👨‍💻 Lucas Gomes
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasggasp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=50fa7b&text_color=f8f8f2&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasggasp&layout=compact&langs_count=8&theme=dracula&hide_border=true&title_color=ff79c6&text_color=f8f8f2&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasggasp&theme=dracula&hide_border=true&background=0d1117&stroke=0000&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" alt="Streak Stats" />
-</div>
-
-## 🚀 Sobre mim
-
-🎓 Estudante de Engenharia de Controle e Automação.
-
-💼 Atualmente atuo como estagiário na área de Engenharia de Produtos.
-
-📊 Também possuo experiência com dashboards, automação de fluxos e criação de scripts em Python para otimização de tarefas.
-
-💻 Hoje estou direcionando minha carreira para Back-End Development, com foco em:
-
-Node.js e Express
-
-Python para automação e APIs
-
-SQL e MongoDB para modelagem e integração de dados
-
-Git & GitHub para versionamento e colaboração
-
-🚀 Busco constantemente aprender novas tecnologias e aplicar boas práticas para criar soluções escaláveis, seguras e eficientes.
-
-### 📚 Estudos Atuais
-
-Python | SQL | PostgreSQL | Node.js | Git
-
-<div align="left">
-  <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="35" width="45" src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667">
-  <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Automation+Engineer;Python+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0" width="100%"/>
+</div>
 
-## 🐍 Contribuições
+## 🎯 About Me
+
+```python
+class LucasGomes:
+    def __init__(self):
+        self.name = "Lucas Gomes"
+        self.role = "Backend Developer & Automation Engineer"
+        self.education = "Control & Automation Engineering Student"
+        self.current_work = "Product Engineering Intern"
+        self.location = "São Paulo, Brazil"
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "SQL"],
+            "backend": ["Node.js", "Express.js", "FastAPI"],
+            "databases": ["PostgreSQL", "MongoDB"],
+            "tools": ["Git", "Docker", "Pandas"],
+            "focus": ["API Development", "Process Automation", "Data Analysis"]
+        }
+    
+    def current_learning(self):
+        return ["Advanced Python", "System Design", "Cloud Architecture"]
+
+developer = LucasGomes()
+print(f"Hello! I'm {developer.name} 👋")
+```
 
 <div align="center">
-  <img src="https://github.com/lucasggasp/lucasggasp/blob/output/github-snake.svg" alt="Snake animation" />
+
+### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<br><strong>Python</strong>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<br><strong>Git</strong>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🎯 Objetivos 2025
-- [x] Criar perfil profissional no GitHub
-- [ ] Completar curso de Python (Básico → Intermediário)
-- [ ] Dominar conceitos fundamentais de SQL
-- [ ] Construir meu primeiro projeto com Node.js
-- [ ] Contribuir para projetos open source
-- [ ] Desenvolver um portfólio de projetos
-
-## 🌱 Próximos Passos
-- **Python**: Projetos práticos com pandas e bibliotecas de análise de dados
-- **SQL**: Queries complexas, joins e otimização de banco de dados  
-- **Node.js**: APIs RESTful com Express.js e integração com bancos de dados
-
-## 📊 Atividade no GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasggasp&bg_color=0d1117&color=ff79c6&line=50fa7b&point=f8f8f2&area=true&hide_border=true" width="100%"/>
-</div>
-
-## 📫 Conecte-se comigo
-
-<div align="left">
-  <a href="https://instagram.com/lucasggasp" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.gg/lucasggasp" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:lumicl44453@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-gomes-331907252/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
-<br>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasggasp&color=ff79c6&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/lucasggasp?label=Followers&style=flat-square&color=ff79c6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucasggasp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasggasp&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <h3>💭 "Código é poesia em movimento" 💭</h3>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasggasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasggasp&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🎯 2025 Roadmap
+
+<div align="center">
+
+| Quarter | Goals | Status |
+|---------|-------|--------|
+| Q1 | ✅ Professional GitHub Profile<br>🔄 Python Intermediate Course<br>🔄 SQL Fundamentals | `In Progress` |
+| Q2 | 🎯 First Node.js Project<br>🎯 Open Source Contributions | `Planned` |
+| Q3 | 🎯 Portfolio Development<br>🎯 Advanced Python Projects | `Planned` |
+| Q4 | 🎯 Cloud Architecture Learning<br>🎯 System Design Studies | `Planned` |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 Python Automation Suite
+Tools for process automation and data analysis using pandas and custom scripts.
+
+**Tech Stack:** `Python` `Pandas` `Automation`
+
+</td>
+<td width="50%">
+
+### 📊 Dashboard Analytics
+Interactive dashboards for data visualization and business insights.
+
+**Tech Stack:** `Python` `SQL` `Data Viz`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gomes-331907252/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasggasp)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lucasggasp)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lumicl44453@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"Clean code always looks like it was written by someone who cares"*
+  
+<img src="https://komarev.com/ghpvc/?username=lucasggasp&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
