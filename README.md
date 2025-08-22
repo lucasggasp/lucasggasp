@@ -14,18 +14,9 @@
 
 <div align="center">
 
-🎓 **Control & Automation Engineering Student**  
-💼 **Product Engineering Intern**  
-🐍 **Backend Developer & Automation Specialist**
-
-</div>
-
-### 🚀 What I Do
-
-- 📊 **Dashboard Development** - Creating interactive data visualization solutions
-- 🔧 **Process Automation** - Building Python scripts to optimize workflows  
-- 🌐 **Backend Development** - APIs and server-side applications
-- 📈 **Data Analysis** - Using pandas and SQL for insights
+🎓 **Control and Automation Engineering Student**
+💼 **Product Engineering Intern**
+🐍 **Studying for backend development**
 
 ### 🎯 Current Focus
 
