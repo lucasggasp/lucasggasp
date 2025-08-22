@@ -68,21 +68,16 @@ Learning Path:
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucasggasp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasggasp&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasggasp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasggasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
-
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasggasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasggasp&theme=tokyonight&hide_border=true" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasggasp&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
-
----
 
 ## 🎯 2025 Roadmap
 
