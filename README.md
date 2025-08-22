@@ -12,29 +12,35 @@
 
 ## 🎯 About Me
 
-```python
-class LucasGomes:
-    def __init__(self):
-        self.name = "Lucas Gomes"
-        self.role = "Backend Developer & Automation Engineer"
-        self.education = "Control & Automation Engineering Student"
-        self.current_work = "Product Engineering Intern"
-        self.location = "São Paulo, Brazil"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "SQL"],
-            "backend": ["Node.js", "Express.js", "FastAPI"],
-            "databases": ["PostgreSQL", "MongoDB"],
-            "tools": ["Git", "Docker", "Pandas"],
-            "focus": ["API Development", "Process Automation", "Data Analysis"]
-        }
-    
-    def current_learning(self):
-        return ["Advanced Python", "System Design", "Cloud Architecture"]
+<div align="center">
 
-developer = LucasGomes()
-print(f"Hello! I'm {developer.name} 👋")
+🎓 **Control & Automation Engineering Student**  
+💼 **Product Engineering Intern**  
+🐍 **Backend Developer & Automation Specialist**
+
+</div>
+
+### 🚀 What I Do
+
+- 📊 **Dashboard Development** - Creating interactive data visualization solutions
+- 🔧 **Process Automation** - Building Python scripts to optimize workflows  
+- 🌐 **Backend Development** - APIs and server-side applications
+- 📈 **Data Analysis** - Using pandas and SQL for insights
+
+### 🎯 Current Focus
+
+```yaml
+Backend Development:
+  - Node.js & Express.js
+  - Python APIs & Automation
+  - Database Design (SQL/MongoDB)
+  - Git & Version Control
+
+Learning Path:
+  - Advanced Python Concepts
+  - System Architecture
+  - Cloud Technologies
+  - Open Source Contributions
 ```
 
 <div align="center">
