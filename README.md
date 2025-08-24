@@ -36,7 +36,7 @@ Learning Path:
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 🛠️ Current learning
 
 <table>
 <tr>
