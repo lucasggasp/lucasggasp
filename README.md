@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas Gomes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Automation+Engineer;Python+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend;Automation+Engineer+Student;Always+Learning" alt="Typing SVG" />
 </div>
 
 <br>
