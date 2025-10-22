@@ -70,6 +70,7 @@ Learning Path:
 ## 📊 GitHub Analytics
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=lucasggasp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=lucasggasp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_bust=1" />
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasggasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 <div align="center">
