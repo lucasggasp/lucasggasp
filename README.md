@@ -81,6 +81,32 @@ Learning Path:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasggasp&theme=tokyo-night&hide_border=true&area=true&cache_bust=1" width="70%"/>
 </div>
 
+## ANALYTICS TESTE 2
+<div align="center">
+
+  <!-- 3 cards lado a lado -->
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasggasp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_bust=1"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasggasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_bust=1"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasggasp&theme=tokyonight&hide_border=true&cache_bust=1"/>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- gráfico abaixo -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasggasp&theme=tokyo-night&hide_border=true&area=true&cache_bust=1" width="90%"/>
+
+</div>
+
+
 ## 🎯 2025 Roadmap
 
 <div align="center">
