@@ -82,37 +82,6 @@ Learning Path:
 </div>
 
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐍 Python Automation Suite
-Tools for process automation and data analysis using pandas and custom scripts.
-
-**Tech Stack:** `Python` `Pandas` `Automation`
-
-</td>
-<td width="50%">
-
-### 📊 Dashboard Analytics
-Interactive dashboards for data visualization and business insights.
-
-**Tech Stack:** `Python` `SQL` `Data Viz`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
