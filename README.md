@@ -82,19 +82,6 @@ Learning Path:
 </div>
 
 
-## 🎯 2025 Roadmap
-
-<div align="center">
-
-| Quarter | Goals | Status |
-|---------|-------|--------|
-| Q1 | ✅ Professional GitHub Profile<br>🔄 Python Intermediate Course<br>🔄 SQL Fundamentals | `In Progress` |
-| Q2 | 🎯 First Node.js Project<br>🎯 Open Source Contributions | `Planned` |
-| Q3 | 🎯 Portfolio Development<br>🎯 Advanced Python Projects | `Planned` |
-| Q4 | 🎯 Cloud Architecture Learning<br>🎯 System Design Studies | `Planned` |
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
