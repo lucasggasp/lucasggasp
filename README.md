@@ -1,108 +1,162 @@
 # 👨‍💻 Lucas Gomes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend;Automation+Engineer+Student;Always+Learning" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Engineering+Student;CRM+%26+Marketing+Technology;Python+%7C+SQL+%7C+Databricks;Always+Learning" />
+
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0" width="100%"/>
-</div>
+# 🚀 About Me
 
-## 🎯 About Me
+🎓 Control and Automation Engineering Student
 
-<div align="center">
+💼 CRM & Marketing Technology Intern at Santander
 
-🎓 **Control and Automation Engineering Student**
-💼 **Product Engineering Intern**
-🐍 **Studying for backend development**
+📊 Passionate about Data Engineering, Automation and Customer Data Platforms
 
-### 🎯 Current Focus
+💡 I enjoy building data solutions, automations and scalable workflows that improve business processes.
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
-Backend Development:
-  - Node.js & Express.js
-  - Python APIs & Automation
-  - Database Design (SQL/MongoDB)
-  - Git & Version Control
+Data Engineering
+  - Python
+  - SQL
+  - Databricks
+  - Data Pipelines
 
-Learning Path:
-  - Advanced Python Concepts
-  - System Architecture
-  - Cloud Technologies
-  - Open Source Contributions
+Marketing Technology
+  - Adobe Journey Optimizer
+  - Customer Journeys
+  - Campaign Automation
+
+Data Analytics
+  - Power BI
+  - Dashboard Development
+  - KPI Analysis
+
+Development
+  - Git
+  - Node.js
+  - MongoDB
 ```
 
+---
+
+# 💼 Professional Experience
+
+## Santander
+
+- Customer Journey development using Adobe Journey Optimizer
+- Campaign implementation and validation
+- Automation of operational processes
+- Data analysis to support marketing campaigns
+- Cross-functional collaboration with CRM teams
+
+## Previous Experience
+
+### Metalfrio Solutions
+
+- Dashboard development with Power BI
+- Python automations
+- Technical data management using TOTVS Datasul
+- Process optimization
+- Engineering support
+
+---
+
+# 🛠️ Tech Stack
+
 <div align="center">
 
-### 🛠️ Current learning
+### Languages
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-<br><strong>Python</strong>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<br><strong>Git</strong>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,sql"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb"/>
+
+### Data
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=lucasggasp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_bust=1" />
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasggasp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_bust=1" />
-</div>
+# 📚 Currently Learning
 
-<div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasggasp&theme=tokyonight&hide_border=true&cache_bust=1" />
-</div>
+- Data Engineering
+- Apache Spark
+- Databricks
+- Data Modeling
+- Cloud Computing
+- Python for Data
+- Advanced SQL
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasggasp&theme=tokyo-night&hide_border=true&area=true&cache_bust=1" width="70%"/>
-</div>
+---
 
+# 🚀 Featured Projects
 
-## 🌐 Connect With Me
+📊 Power BI Dashboard
 
-<div align="center">
+Dashboard for monitoring engineering KPIs.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gomes-331907252/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasggasp)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lucasggasp)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lumicl44453@gmail.com)
+---
 
-</div>
+🤖 Python Automation
+
+Automation for engineering and business processes.
+
+---
+
+📈 Customer Journey
+
+Customer journeys built with Adobe Journey Optimizer.
+
+---
+
+🗄️ SQL Analysis
+
+Data extraction and business analysis.
+
+---
+
+# 📜 Certifications
+
+🏅 Databricks Fundamentals
+
+🏅 SQL
+
+🏅 Python
+
+(Add others as you complete them.)
+
+---
+
+# 📈 GitHub Analytics
+
+(Keep your current stats.)
+
+---
+
+# 🌎 Connect with Me
+
+(Keep your badges.)
 
 ---
 
 <div align="center">
-  
-### 💭 *"Clean code always looks like it was written by someone who cares"*
-  
-<img src="https://komarev.com/ghpvc/?username=lucasggasp&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
-</div>
+> "Transforming data into solutions."
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
